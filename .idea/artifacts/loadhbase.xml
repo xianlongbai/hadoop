@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="loadhbase">
+    <output-path>D:/tmp</output-path>
+    <root id="archive" name="loadhbase.jar">
+      <element id="module-output" name="hadoop" />
+    </root>
+  </artifact>
+</component>

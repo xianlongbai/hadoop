@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spark_wc">
+    <output-path>$USER_HOME$/Desktop/神经网络</output-path>
+    <root id="archive" name="spark_wc.jar">
+      <element id="module-output" name="hadoop" />
+    </root>
+  </artifact>
+</component>

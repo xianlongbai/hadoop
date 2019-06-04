@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spark_wc_01">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_wc_01</output-path>
+    <root id="archive" name="hadoop.jar">
+      <element id="module-output" name="hadoop" />
+    </root>
+  </artifact>
+</component>

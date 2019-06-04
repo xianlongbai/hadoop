@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="udf_fun">
+    <output-path>D:/tmp</output-path>
+    <root id="archive" name="udf_fun.jar">
+      <element id="module-output" name="hadoop" />
+    </root>
+  </artifact>
+</component>

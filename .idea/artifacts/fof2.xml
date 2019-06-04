@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fof2">
+    <output-path>$USER_HOME$/Desktop/hadoop_tmp</output-path>
+    <root id="archive" name="fof2.jar">
+      <element id="module-output" name="hadoop" />
+    </root>
+  </artifact>
+</component>
